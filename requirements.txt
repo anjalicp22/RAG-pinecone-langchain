@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-pinecone
+langchain-openai
+datasets
+langchain-cohere
+cohere
+python-dotenv
+flask
